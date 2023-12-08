@@ -1,2 +1,2 @@
 # password hacker
- idk why I made tbh
+ idk why I made it tbh
